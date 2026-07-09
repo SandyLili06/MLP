@@ -2,10 +2,21 @@
 
 Proyecto de aprendizaje automático para predecir la energía de adsorción utilizando una red neuronal Perceptrón Multicapa (MLP).
 
+## Lenguaje de programación
+
+Python 3.11
+
+## Bibliotecas utilizadas
+
+- TensorFlow
+- Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+  
 ## Contenido
 
-- Script Python (`modelo_nanotubo.py`)
-- Notebook Jupyter (`modelo_nanotubo.ipynb`)
 - Modelo entrenado (`modelo_nanotubo.keras`)
 - Métricas de evaluación
 - Gráficas de entrenamiento y validación
@@ -25,6 +36,5 @@ Proyecto de aprendizaje automático para predecir la energía de adsorción util
 - predicciones_modelo.csv
 
 ## Instalación
-
 ```bash
 pip install -r requirements.txt
