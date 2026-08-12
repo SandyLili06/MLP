@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea
+
+# Builds
+*.spec
+*.dist
+dist/
+build/
+main.dist/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Documentos
+*.pdf
+*.zip
+
